@@ -2,7 +2,7 @@ package basics;
 
 public class StaticMethods {
 
-    //static 객채들은 어디서든 자유롭게 불러오기가 가능
+    //static 함수들은 어디서든 자유롭게 불러오기가 가능
     //그 외의 함수들은 어디서든 불러올 때 해당 클래스를 먼저 객체화 필요
     public static void main(String[] args) {
         StaticMethods myStaticMethods = new StaticMethods();
